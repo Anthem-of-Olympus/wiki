@@ -1,0 +1,22 @@
+---
+{"publish":true,"permalink":"/01-mechanics/items/weapons/simple-weapons/simple-weapons/"}
+---
+
+
+| Simple Melee Weapons  |       |                 |         |                                                                                  |
+| --------------------- | ----- | --------------- | ------- | -------------------------------------------------------------------------------- |
+| [[01 - Mechanics/Items/Weapons/Simple Weapons/Club\|Club]]              | 1 sp  | 1d4 bludgeoning | 2 lb.   | [[01 - Mechanics/Weapon Attributes/Light (weapon property)\|Light (weapon property)]]                                                      |
+| [[01 - Mechanics/Items/Weapons/Simple Weapons/Dagger\|Dagger]]            | 2 gp  | 1d4 piercing    | 1 lb.   | [[01 - Mechanics/Weapon Attributes/Finesse\|Finesse]], [[01 - Mechanics/Weapon Attributes/Light (weapon property)\|Light (weapon property)]], [[01 - Mechanics/Weapon Attributes/Thrown\|Thrown]] ([[01 - Mechanics/Weapon Attributes/Range\|Range]] 20/60)           |
+| [[01 - Mechanics/Items/Weapons/Simple Weapons/Greatclub\|Greatclub]]         | 2 sp  | 1d8 bludgeoning | 10 lb.  | [[01 - Mechanics/Weapon Attributes/Two-handed\|Two-handed]]                                                                   |
+| [[01 - Mechanics/Items/Weapons/Simple Weapons/Handaxe\|Handaxe]]           | 5 gp  | 1d6 slashing    | 2 lb.   | [[01 - Mechanics/Weapon Attributes/Light (weapon property)\|Light (weapon property)]], [[01 - Mechanics/Weapon Attributes/Thrown\|Thrown]] ([[01 - Mechanics/Weapon Attributes/Range\|Range]] 20/60)                        |
+| [[01 - Mechanics/Items/Weapons/Simple Weapons/Javelin\|Javelin]]           | 5 sp  | 1d6 piercing    | 2 lb.   | [[01 - Mechanics/Weapon Attributes/Thrown\|Thrown]] ([[01 - Mechanics/Weapon Attributes/Range\|Range]] 30/120)                                                    |
+| [[01 - Mechanics/Items/Weapons/Simple Weapons/Light hammer\|Light hammer]]      | 2 gp  | 1d4 bludgeoning | 2 lb.   | [[01 - Mechanics/Weapon Attributes/Light (weapon property)\|Light (weapon property)]], [[01 - Mechanics/Weapon Attributes/Thrown\|Thrown]] (Range 20/60)                            |
+| [[01 - Mechanics/Items/Weapons/Simple Weapons/Mace\|Mace]]              | 5 gp  | 1d6 bludgeoning | 4 lb.   | -                                                                                |
+| [[01 - Mechanics/Items/Weapons/Simple Weapons/Quarterstaff\|Quarterstaff]]      | 2 sp  | 1d6 bludgeoning | 4 lb.   | [[01 - Mechanics/Weapon Attributes/Versatile\|Versatile]] (1d8)                                                              |
+| [[01 - Mechanics/Items/Weapons/Simple Weapons/Sickle\|Sickle]]            | 1 gp  | 1d4 slashing    | 2 lb.   | [[01 - Mechanics/Weapon Attributes/Light (weapon property)\|Light (weapon property)]]                                                      |
+| [[01 - Mechanics/Items/Weapons/Simple Weapons/Spear\|Spear]]             | 1 gp  | 1d6 piercing    | 3 lb.   | [[01 - Mechanics/Weapon Attributes/Thrown\|Thrown]] ([[01 - Mechanics/Weapon Attributes/Range\|Range]] 20/60), [[01 - Mechanics/Weapon Attributes/Versatile\|Versatile]] (1d8)                                |
+| Simple Ranged Weapons |       |                 |         |                                                                                  |
+| [[Crossbow, Light\|Crossbow, Light]]   | 25 gp | 1d8 piercing    | 5 lb.   | [[01 - Mechanics/Weapon Attributes/Ammunition (weapon property)\|Ammunition (weapon property)]] ([[01 - Mechanics/Weapon Attributes/Range\|Range]] 80/320), [[01 - Mechanics/Weapon Attributes/Loading\|Loading]], [[01 - Mechanics/Weapon Attributes/Two-handed\|Two-handed]] |
+| [[Dart\|Dart]]              | 5 cp  | 1d4 piercing    | 1/4 lb. | [[01 - Mechanics/Weapon Attributes/Finesse\|Finesse]], [[01 - Mechanics/Weapon Attributes/Thrown\|Thrown]] ([[01 - Mechanics/Weapon Attributes/Range\|Range]] 20/60)                                        |
+| [[Shortbow\|Shortbow]]          | 25 gp | 1d6 piercing    | 2 lb.   | [[01 - Mechanics/Weapon Attributes/Ammunition (weapon property)\|Ammunition (weapon property)]] ([[01 - Mechanics/Weapon Attributes/Range\|Range]] 80/320), [[01 - Mechanics/Weapon Attributes/Two-handed\|Two-handed]]              |
+| [[Sling\|Sling]]             | 1 sp  | 1d4 bludgeoning | -       | [[01 - Mechanics/Weapon Attributes/Ammunition (weapon property)\|Ammunition (weapon property)]] ([[01 - Mechanics/Weapon Attributes/Range\|Range]] 30/120)                              |

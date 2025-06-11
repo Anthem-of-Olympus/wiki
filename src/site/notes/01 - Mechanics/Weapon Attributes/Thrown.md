@@ -1,0 +1,5 @@
+---
+{"publish":true,"permalink":"/01-mechanics/weapon-attributes/thrown/"}
+---
+
+If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a [[01 - Mechanics/Items/Weapons/Simple Weapons/Handaxe\|Handaxe]], you use your [[01 - Mechanics/Core Attributes & Skills/Strength\|Strength]], but if you throw a [[01 - Mechanics/Items/Weapons/Simple Weapons/Dagger\|Dagger]], you can use either your [[01 - Mechanics/Core Attributes & Skills/Strength\|Strength]] or your [[01 - Mechanics/Core Attributes & Skills/Dexterity\|Dexterity]], since the dagger has the [[01 - Mechanics/Weapon Attributes/Finesse\|Finesse]] property.
