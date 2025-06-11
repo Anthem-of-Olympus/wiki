@@ -10,7 +10,10 @@ body {
   //  h1 {
   //   color: black;
   //  }
-  .lucide {
+  .filetree .dg-icon {
+    display: none !important;
+  }
+  a.internal-link .dg-icon {
     display: none !important;
   }
 }
