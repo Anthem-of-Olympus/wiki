@@ -6,7 +6,7 @@ Filed and footnoted by [[Lexicon\|Lexicon the Oculus]]
 >“To name a people is to echo their memory. To forget them is the cruelest magic.”  
 — _Annotation found inside a cracked atlas, margin note penned in gold ink_
 
-[[00 - Administrative/Welcome\|Welcome]] to [[02 - Species & Cultures/Species & Cultures\|Species & Cultures]] in this section of the Library, we will delve into the various different humanoid **species** of [[04 - Geography & Politics/Planes/Caledrûn/Caledrûn\|Caledrûn]], Their origins, appearance, and place in the world. Some species have a variety of different **cultures** and they will be explained further in this section as well.
+Welcome to [[02 - Species & Cultures/Species & Cultures\|Species & Cultures]] in this section of the Library, we will delve into the various different humanoid **species** of [[04 - Geography & Politics/Planes/Caledrûn/Caledrûn\|Caledrûn]], Their origins, appearance, and place in the world. Some species have a variety of different **cultures** and they will be explained further in this section as well.
 
 Let's start with the dominant species, defined as the most common species (and often called the[[02 - Species & Cultures/dominant species/Common folk\|Common folk]]), but also those with the largest influence, reach, might, and political power.
 - [[02 - Species & Cultures/dominant species/Humans\|Humans]]
