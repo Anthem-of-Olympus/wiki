@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/00-administrative/welcome/"}
+{"publish":true,"permalink":"/00-administrative/welcome/","tags":["gardenEntry"]}
 ---
 
 Welcome, Wonderer!
