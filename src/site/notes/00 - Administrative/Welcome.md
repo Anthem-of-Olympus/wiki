@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/00-administrative/welcome/","tags":["gardenEntry"]}
+{"created":"2025-05-21T08:56:47.850+02:00","updated":"2025-06-11T19:30:14.000+02:00","cssclasses":null,"tags":["gardenEntry"],"publish":true,"home":"true","permalink":"/00-administrative/welcome/","dgPassFrontmatter":true}
 ---
 
 Welcome, Wonderer!
