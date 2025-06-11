@@ -19,25 +19,25 @@ Ah,  [[04 - Geography & Politics/Planes/Caledrûn/Caledrûn\|Caledrûn]]. Such a
 
 Within this Library, you’ll find shelves that breathe and books that whisper. But for your convenience, and mine! I’ve begun organizing the collection into the... _foundational_ pillars of understanding:
 
-[[01 - Mechanics/Mechanics\|Mechanics]]
+### [[01 - Mechanics/Mechanics\|Mechanics]]
 The workings of the world, and how to navigate it in great-detail.
 
-**[[02 - Species & Cultures/Species & Cultures\|Species & Cultures]]**  
+### [[02 - Species & Cultures/Species & Cultures\|Species & Cultures]] 
 Customs, peoples, and odd anatomies; how they live, love, fight, and feast.
 
-[[03 - Flora & Fauna/Flora & Fauna\|Flora & Fauna]]
+### [[03 - Flora & Fauna/Flora & Fauna\|Flora & Fauna]]
 Creatures that have been sighted in the most unlikely places, flowers that bloom where the sun doesn't shine and everything in-between.
 
-**[[04 - Geography & Politics/Geography & Politics\|Geography & Politics]]**  
+### [[04 - Geography & Politics/Geography & Politics\|Geography & Politics]]  
 Maps that shift, thrones that tremble. Lands rise, empires fall.
 
-**[[05 - Religion & Deities/Religion & Deities\|Religion & Deities]]**  
+### [[05 - Religion & Deities/Religion & Deities\|Religion & Deities]]
 From forgotten idols to meddlesome immortals. Belief is _loud_, even when the gods are not.
 
-**[[06 - History & Myths/History & Myths\|History & Myths]]**  
+### [[06 - History & Myths/History & Myths\|History & Myths]]   
 The truths we know, the lies we tell, and the many fascinating places where they overlap.
 
-**[[07 - Adventures & Fiction/Adventures & Fiction\|Adventures & Fiction]]**  
+### [[07 - Adventures & Fiction/Adventures & Fiction\|Adventures & Fiction]]  
 Collected tales, heroic nonsense, and perhaps… one or two unauthorized embellishments.
 
 There’s more, of course. There’s _always_ more. But these should steady your feet as you begin to wander.
