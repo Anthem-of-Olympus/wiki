@@ -1,5 +1,5 @@
 ---
-{"created":"2025-05-21T09:05:50.400+02:00","updated":"2025-06-11T21:43:14.000+02:00","cssclasses":null,"tags":null,"publish":true,"permalink":"/02-species-and-cultures/species-and-cultures/","dgPassFrontmatter":true}
+{"created":"2025-05-21T09:05:50.400+02:00","updated":"2025-06-18T11:22:48.000+02:00","cssclasses":null,"tags":null,"publish":true,"permalink":"/02-species-and-cultures/species-and-cultures/","dgPassFrontmatter":true}
 ---
 
 Filed and footnoted by [[Lexicon\|Lexicon the Oculus]]
@@ -8,7 +8,7 @@ Filed and footnoted by [[Lexicon\|Lexicon the Oculus]]
 
 Welcome to [[02 - Species & Cultures/Species & Cultures\|Species & Cultures]] in this section of the Library, we will delve into the various different humanoid **species** of [[04 - Geography & Politics/Planes/Caledrûn/Caledrûn\|Caledrûn]], Their origins, appearance, and place in the world. Some species have a variety of different **cultures** and they will be explained further in this section as well.
 
-Let's start with the dominant species, defined as the most common species (and often called the[[02 - Species & Cultures/dominant species/Common folk\|Common folk]]), but also those with the largest influence, reach, might, and political power.
+Let's start with the dominant species, defined as the most common species (and often called the [[02 - Species & Cultures/dominant species/Common folk\|Common folk]]), but also those with the largest influence, reach, might, and political power.
 - [[02 - Species & Cultures/dominant species/Humans\|Humans]]
 - [[02 - Species & Cultures/dominant species/Elves\|Elves]]
 - [[02 - Species & Cultures/dominant species/Smallfolk\|Smallfolk]]
@@ -25,4 +25,6 @@ And for more uncommon species scattered across [[04 - Geography & Politics/Plane
 **Note from Lexi:**  
 _Please do not attempt to categorize these entries as “good” or “evil.”  
 Morality is a performance, not an inheritance. I have watched saints be born from slaughter, and villains suckle at temples._  
-Instead, observe. Record. Respect.
+
+**Addendum: Kobolds**
+I have pondered much but I just cannot find a good category to put [[Kobolds\|Kobolds]], so if you're looking for them, here they are.  -Lexi
