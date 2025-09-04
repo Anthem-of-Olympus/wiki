@@ -1,5 +1,5 @@
 ---
-{"created":"2025-05-21T09:05:50.400+02:00","updated":"2025-09-04T20:25:00.000+02:00","cssclasses":null,"tags":null,"publish":true,"permalink":"/02-species-and-cultures/species-and-cultures/","dgPassFrontmatter":true}
+{"created":"2025-05-21T09:05:50.400+02:00","updated":"2025-09-04T20:38:20.000+02:00","cssclasses":null,"tags":null,"dg-publish":true,"permalink":"/02-species-and-cultures/species-and-cultures/","dgPassFrontmatter":true}
 ---
 
 Filed and footnoted by [[Lexicon\|Lexicon the Oculus]]

@@ -1,5 +1,5 @@
 ---
-{"created":"2025-05-21T08:56:47.850+02:00","updated":"2025-06-11T19:30:14.000+02:00","cssclasses":null,"tags":["gardenEntry"],"publish":true,"home":"true","permalink":"/00-administrative/welcome/","dgPassFrontmatter":true}
+{"created":"2025-05-21T08:56:47.850+02:00","updated":"2025-09-04T20:38:34.000+02:00","cssclasses":null,"tags":["gardenEntry"],"dg-publish":true,"dg-home":"true","permalink":"/00-administrative/welcome/","dgPassFrontmatter":true}
 ---
 
 Welcome, Wonderer!
@@ -14,8 +14,8 @@ Regardless! _Just in case,_ welcome, welcome! I am **Lexi**, short for **[[Lexic
 So here I am, in this delightful little nowhere-space, collecting **everything**.  
 Everywhere. Forever.
 
-You’ve found the [[Folded Library\|Library in the Fold]], rooted in a **bubble dimension**, watching over many worlds... but especially one dear to me: [[04 - Geography & Politics/Planes/Caledrûn/Caledrûn\|Caledrûn]].  
-Ah,  [[04 - Geography & Politics/Planes/Caledrûn/Caledrûn\|Caledrûn]]. Such a curious, tangled realm. I’ve watched it from its mythic origins to its most recent heartbreaks. If you’re seeking knowledge of that world, you’ve cracked the right spine.
+You’ve found the [[Folded Library\|Library in the Fold]], rooted in a **bubble dimension**, watching over many worlds... but especially one dear to me: [[04 - Geography & Politics/Planes/Caledrûn/Caledrûn\|04 - Geography & Politics/Planes/Caledrûn/Caledrûn]].  
+Ah,  [[04 - Geography & Politics/Planes/Caledrûn/Caledrûn\|04 - Geography & Politics/Planes/Caledrûn/Caledrûn]]. Such a curious, tangled realm. I’ve watched it from its mythic origins to its most recent heartbreaks. If you’re seeking knowledge of that world, you’ve cracked the right spine.
 
 Within this Library, you’ll find shelves that breathe and books that whisper. But for your convenience, and mine! I’ve begun organizing the collection into the... _foundational_ pillars of understanding:
 
