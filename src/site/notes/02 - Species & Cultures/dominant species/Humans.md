@@ -1,5 +1,5 @@
 ---
-{"created":"2025-05-21T08:25:20.290+02:00","updated":"2025-09-05T14:43:26.000+02:00","cssclasses":null,"tags":null,"dg-publish":true,"permalink":"/02-species-and-cultures/dominant-species/humans/","dgPassFrontmatter":true}
+{"created":"2025-05-21T08:25:20.290+02:00","updated":"2025-09-05T14:45:48.000+02:00","cssclasses":null,"tags":null,"dg-publish":true,"permalink":"/02-species-and-cultures/dominant-species/humans/","dgPassFrontmatter":true}
 ---
 
 _Filed and footnoted by [[Lexicon\|Lexicon]], [[Oculus of the Realms\|The oculus]]_
@@ -13,7 +13,7 @@ In every age of [[04 - Geography & Politics/Planes/Caledrûn/Caledrûn\|Caledrû
 - **Languages**: You can speak, read, and write [[Common\|Common]] and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects.
 - **Creature type**: You are [[Humanoids\|Humanoid]]
 - **Age:**. Humans reach adulthood in their late teens and live less than a century.
-- **Size**: You are [[Medium Creature\|Medium]] or [[Small Creature\|Small]]
+- **Size**: Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless you are [[Medium Creature\|Medium]].
 - **[[Speed\|Speed]]**: Your walking speed is 30 feet.
 - Versatile: You gain proficiency in one skill of your choice.
 
