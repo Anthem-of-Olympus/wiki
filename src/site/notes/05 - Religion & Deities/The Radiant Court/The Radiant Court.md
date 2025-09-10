@@ -1,5 +1,5 @@
 ---
-{"created":"2025-05-21T10:20:00.910+02:00","updated":"2025-09-10T14:40:20.000+02:00","cssclasses":null,"tags":null,"dg-publish":true,"permalink":"/05-religion-and-deities/the-radiant-court/the-radiant-court/","dgPassFrontmatter":true}
+{"created":"2025-05-21T10:20:00.910+02:00","updated":"2025-09-10T14:41:34.000+02:00","cssclasses":null,"tags":null,"dg-publish":true,"permalink":"/05-religion-and-deities/the-radiant-court/the-radiant-court/","dgPassFrontmatter":true}
 ---
 
 The **Radiant Court** is the most widely venerated pantheon across [[04 - Geography & Politics/Planes/Caledrûn/Caledrûn\|Caledrûn]]. Where the **Foundationals** are remembered as primordial forces, and the **Shadow Throne** lingers in the margins of myth and dream, the Radiant Court are the gods of **hearths, crowns, battles, and tombs**.
