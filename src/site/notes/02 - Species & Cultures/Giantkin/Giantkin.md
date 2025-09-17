@@ -1,5 +1,5 @@
 ---
-{"created":"2025-05-21T09:49:32.830+02:00","updated":"2025-09-17T14:28:56.000+02:00","cssclasses":null,"tags":null,"dg-publish":true,"permalink":"/02-species-and-cultures/giantkin/giantkin/","dgPassFrontmatter":true}
+{"created":"2025-05-21T09:49:32.830+02:00","updated":"2025-09-17T14:42:28.000+02:00","cssclasses":null,"tags":null,"dg-publish":true,"permalink":"/02-species-and-cultures/giantkin/giantkin/","dgPassFrontmatter":true}
 ---
 
 Filed and footnoted by [[Lexicon\|Lexicon]], [[Oculus of the Realms\|The oculus]]
@@ -26,6 +26,6 @@ What unites them is not geography but **persistence**. Whether in peaks, forests
 
 ### **Subspecies Index**
 Each of the Giantkin is detailed under its own entry:
-- [[Goliath\|Goliath]] - Clan-bound warriors who test their strength against nature and rival kin.
+- [[02 - Species & Cultures/Giantkin/Goliath\|Goliath]] - Clan-bound warriors who test their strength against nature and rival kin.
 - [[02 - Species & Cultures/Giantkin/Firbolg\|Firbolg]] - Spiritual stewards of the deep forests, guided by ancestors and shamans.
 - [[02 - Species & Cultures/Giantkin/Dwarves\|Dwarves]] - Master builders and explorers, who carve permanence from stone and steel.
