@@ -1,5 +1,5 @@
 ---
-{"created":"2025-05-21T10:05:16.160+02:00","updated":"2025-09-17T14:20:10.000+02:00","cssclasses":null,"tags":null,"dg-publish":true,"permalink":"/02-species-and-cultures/giantkin/goliath/","dgPassFrontmatter":true}
+{"created":"2025-05-21T10:05:16.160+02:00","updated":"2025-09-17T14:42:24.000+02:00","cssclasses":null,"tags":null,"dg-publish":true,"permalink":"/02-species-and-cultures/giantkin/goliath/","dgPassFrontmatter":true}
 ---
 
 *Filed by [[Lexicon\|Lexicon]], [[Oculus of the Realms\|Oculus of the Realms]]*
