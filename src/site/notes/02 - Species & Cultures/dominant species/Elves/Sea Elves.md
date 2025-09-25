@@ -1,5 +1,5 @@
 ---
-{"created":"2025-09-25T20:05:01.500+02:00","updated":"2025-09-25T20:27:06.000+02:00","cssclasses":null,"tags":null,"dg-publish":true,"permalink":"/02-species-and-cultures/dominant-species/elves/sea-elves/","dgPassFrontmatter":true}
+{"created":"2025-09-25T20:05:01.500+02:00","updated":"2025-09-25T22:00:44.000+02:00","cssclasses":null,"tags":null,"dg-publish":true,"permalink":"/02-species-and-cultures/dominant-species/elves/sea-elves/","dgPassFrontmatter":true}
 ---
 
 _Filed by Lexicon, Oculus of the Realms_
@@ -16,7 +16,7 @@ To the landbound, Sea Elves are enigmatic, at once welcoming and ambitious. They
 - **Age.** Sea Elves reach physical maturity at the same rate as [[02 - Species & Cultures/dominant species/Humans\|Humans]], but are not considered culturally mature until around their 100th year. They can live to be 750 years old.
 - **Creature Type.** You are [[Humanoids\|Humanoid]].
 - **Size.** 6 to nearly 7 feet tall. You are [[Medium Creature\|Medium]].
-- **[[Speed\|Speed]].** Your walking speed is 30 feet.
+- **Speed.** Your walking speed is 30 feet.
 - **Darkvision.** You can see in dim light within 60 feet as if it were bright light, and in darkness as if it were dim light. You cannot discern color in darkness, only shades of gray.
 - **Keen Senses.** You have proficiency in the [[01 - Mechanics/Core Attributes & Skills/Perception Skill\|Perception Skill]].
 
@@ -29,5 +29,5 @@ Rather than sleep, you meditate deeply for four hours a day, remaining semi-cons
 
 ##### Sea Elf
 - **Child of the Sea.** You can breathe air and water, and you have resistance to cold damage.
-- **Aquatic Magic.** You know the _[[Shape Water\|Shape Water]]_ cantrip. You may choose your spellcasting ability for this spell when you first gain this trait.
+- **Aquatic Magic.** You know the _[[Shape Water\|Shape Water]]_ cantrip. Your spellcasting ability for these spells is **Intelligence, Wisdom, or Charisma (your choice when you first gain this trait).**
 - **Friend of the Sea.** Aquatic animals have an extraordinary affinity with your people. You can communicate simple ideas to any [[Beast\|Beast]] that has a swimming speed. It can understand your words, though you have no special ability to understand it in return.

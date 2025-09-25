@@ -1,5 +1,5 @@
 ---
-{"created":"2025-09-25T19:57:42.750+02:00","updated":"2025-09-25T20:26:58.000+02:00","cssclasses":null,"tags":null,"dg-publish":true,"permalink":"/02-species-and-cultures/dominant-species/elves/night-elves/","dgPassFrontmatter":true}
+{"created":"2025-09-25T19:57:42.750+02:00","updated":"2025-09-25T22:00:28.000+02:00","cssclasses":null,"tags":null,"dg-publish":true,"permalink":"/02-species-and-cultures/dominant-species/elves/night-elves/","dgPassFrontmatter":true}
 ---
 
 _Filed by Lexicon, Oculus of the Realms_
@@ -15,7 +15,7 @@ Smaller and slighter than most of their kin, Night Elves live on the edges of so
 - **Age.** Night Elves reach physical maturity at the same rate as [[02 - Species & Cultures/dominant species/Humans\|Humans]], but are not considered culturally mature until around their 100th year. They can live to be 750 years old.
 - **Creature Type.** You are [[Humanoids\|Humanoid]].
 - **Size.** Night Elves tend to be smaller and thinner than other elves, averaging around 5½ to 6 feet tall. You are [[Medium Creature\|Medium]].
-- **[[Speed\|Speed]].** Your walking speed is 30 feet.
+- **Speed.** Your walking speed is 30 feet.
 - **Darkvision.** You can see in dim light within 60 feet as if it were bright light, and in darkness as if it were dim light. You cannot discern color in darkness, only shades of gray.
 - **Keen Senses.** You have proficiency in the [[01 - Mechanics/Core Attributes & Skills/Perception Skill\|Perception Skill]].
 
@@ -29,4 +29,4 @@ Rather than sleep, you meditate deeply for four hours a day, remaining semi-cons
 ##### Night Elf
 - **Superior Darkvision.** Your darkvision has a range of 120 feet, instead of 60.
 - **Sunlight Sensitivity.** You have [[01 - Mechanics/Core Attributes & Skills/Disadvantage\|Disadvantage]] on attack rolls and on [[Wisdom (Perception)\|Wisdom (Perception)]] checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
-- **Nytheris’ Guidance.** You know the _[[Dancing Lights\|Dancing Lights]]_ cantrip. At 3rd level, you can also cast _[[Faerie Fire\|Faerie Fire]]_ once with this trait, regaining its use after a long rest. Your spellcasting ability for these spells is your choice when you first gain this trait.
+- **Nytheris’ Guidance.** You know the _[[Dancing Lights\|Dancing Lights]]_ cantrip. At 3rd level, you can also cast _[[Faerie Fire\|Faerie Fire]]_ once with this trait, regaining its use after a long rest. Your spellcasting ability for these spells is **Intelligence, Wisdom, or Charisma (your choice when you first gain this trait).**

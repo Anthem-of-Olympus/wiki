@@ -1,5 +1,5 @@
 ---
-{"created":"2025-09-25T16:27:14.810+02:00","updated":"2025-09-25T20:26:30.000+02:00","cssclasses":null,"tags":null,"dg-publish":true,"permalink":"/02-species-and-cultures/dominant-species/elves/high-elves/","dgPassFrontmatter":true}
+{"created":"2025-09-25T16:27:14.810+02:00","updated":"2025-09-25T21:47:08.000+02:00","cssclasses":null,"tags":null,"dg-publish":true,"permalink":"/02-species-and-cultures/dominant-species/elves/high-elves/","dgPassFrontmatter":true}
 ---
 
 _Filed by Lexicon, Oculus of the Realms_
@@ -28,5 +28,5 @@ You have [[01 - Mechanics/Core Attributes & Skills/Advantage\|Advantage]] on [[S
 ##### Trance
 Rather than sleep, you meditate deeply for four hours a day, remaining semi-conscious. During this **trance**, you dream in the form of mental exercises ingrained over centuries. After this rest, you gain the same benefit a human does from 8 hours of sleep.
 ##### High Elf
-- **Innate magic.** You know one cantrip of your choice from the [[Wizard Spell List\|Wizard Spell List]]. At 3rd level, you can also cast _[[Charm Person\|Charm Person]]_ once with this trait, regaining its use after a long rest. Your spellcasting ability for these spells is your choice when you first gain this trait.
+- **Innate magic.** You know one cantrip of your choice from the [[Wizard Spell List\|Wizard Spell List]]. At 3rd level, you can also cast _[[Charm Person\|Charm Person]]_ once with this trait, regaining its use after a long rest. Your spellcasting ability for these spells is **Intelligence, Wisdom, or Charisma (your choice when you first gain this trait).**
 - **Extra Language.** You know one additional language of your choice.

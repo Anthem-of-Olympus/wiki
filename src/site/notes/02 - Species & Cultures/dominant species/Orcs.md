@@ -1,5 +1,5 @@
 ---
-{"created":"2025-05-21T10:03:01.600+02:00","updated":"2025-09-25T20:25:52.000+02:00","cssclasses":null,"tags":null,"dg-publish":true,"permalink":"/02-species-and-cultures/dominant-species/orcs/","dgPassFrontmatter":true}
+{"created":"2025-05-21T10:03:01.600+02:00","updated":"2025-09-25T22:00:36.000+02:00","cssclasses":null,"tags":null,"dg-publish":true,"permalink":"/02-species-and-cultures/dominant-species/orcs/","dgPassFrontmatter":true}
 ---
 
 _Filed by Lexicon, Oculus of the Realms_
@@ -17,7 +17,7 @@ Orcs are led as much by passion as by reason. Quick to act, quick to anger, and 
 - **Age.** Orcs reach physical maturity at the same rate as [[02 - Species & Cultures/dominant species/Humans\|Humans]], and can live to about 80.
 - **Creature Type.** You are [[Humanoids\|Humanoid]].
 - **Size.** Orcs stand broad and powerful, usually 6 to 7 feet tall. You are [[Medium Creature\|Medium]].
-- **[[Speed\|Speed]].** Your walking speed is 30 feet.
+- **Speed.** Your walking speed is 30 feet.
 - **Darkvision.** You can see in dim light within 60 feet as if it were bright light, and in darkness as if it were dim light. You discern colors in darkness only as shades of gray.
 
 #### Species Abilities
