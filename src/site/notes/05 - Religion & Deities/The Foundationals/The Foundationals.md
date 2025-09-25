@@ -1,5 +1,5 @@
 ---
-{"created":"2025-05-21T10:20:06.930+02:00","updated":"2025-09-25T22:24:30.000+02:00","cssclasses":null,"tags":null,"dg-publish":true,"permalink":"/05-religion-and-deities/the-foundationals/the-foundationals/","dgPassFrontmatter":true}
+{"created":"2025-05-21T10:20:06.930+02:00","updated":"2025-09-25T22:25:00.000+02:00","cssclasses":null,"tags":null,"dg-publish":true,"permalink":"/05-religion-and-deities/the-foundationals/the-foundationals/","dgPassFrontmatter":true}
 ---
 
 The **Foundationals** are not like other gods. They are not worshipped for their favor or appeased for their wrath. They are not born from myth or made from mortal hope.
@@ -12,7 +12,7 @@ There are **five**, or at least no more than five have ever been confirmed acros
 
 ### The Five Foundationals
 - **[[05 - Religion & Deities/The Foundationals/Tar Azul, the Raging Flame\|Tar Azul, the Raging Flame]]**  
-Disparity, flame, heat, cold; the eternal contrast between burning and stillness, presence and absence
+Disparity, flame, heat, cold; the eternal contrast between burning and stillness, presence and absence.
 - **[[Kelreth, the Below that Remembers\|Kelreth, the Below that Remembers]]**  
     The sea, depth, pressure, memory; the crushing weight of oceans and what they keep.
 - **[[Veyruhn, the Spiral Unbound\|Veyruhn, the Spiral Unbound]]**  
