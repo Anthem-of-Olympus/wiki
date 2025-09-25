@@ -1,5 +1,5 @@
 ---
-{"created":"2025-05-21T08:56:47.850+02:00","updated":"2025-09-10T15:02:26.000+02:00","cssclasses":null,"tags":["gardenEntry"],"dg-publish":true,"dg-home":"true","permalink":"/00-administrative/welcome/","dgPassFrontmatter":true}
+{"created":"2025-05-21T08:56:47.850+02:00","updated":"2025-09-23T12:34:16.000+02:00","cssclasses":null,"tags":["gardenEntry"],"dg-publish":true,"dg-home":"true","permalink":"/00-administrative/welcome/","dgPassFrontmatter":true}
 ---
 
 Welcome, Wonderer!
@@ -42,9 +42,9 @@ Collected tales, heroic nonsense, and perhaps… one or two unauthorized embelli
 
 There’s more, of course. There’s _always_ more. But these should steady your feet as you begin to wander.
 
-And if you happen to see a floating eyeball trailing ink or muttering to a quill, don’t mind me. I’m just keeping record. It’s what [[Oculus of the Realms\|the Oculus]] does. It’s what I must do.
+And if you happen to see a floating eyeball trailing ink or muttering to a quill, don’t mind me. I’m just keeping record. It’s what the Oculus does. It’s what I must do.
 
-Until we meet proper,
+Until we meet proper,**
 
 **Yours in ink and ever-watchful vision,**  
 **Lexi**  

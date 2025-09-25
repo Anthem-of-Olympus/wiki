@@ -1,8 +1,8 @@
 ---
-{"created":"2025-05-21T10:05:16.160+02:00","updated":"2025-09-17T14:42:24.000+02:00","cssclasses":null,"tags":null,"dg-publish":true,"permalink":"/02-species-and-cultures/giantkin/goliath/","dgPassFrontmatter":true}
+{"created":"2025-05-21T10:05:16.160+02:00","updated":"2025-09-25T19:37:32.000+02:00","cssclasses":null,"tags":null,"dg-publish":true,"permalink":"/02-species-and-cultures/giantkin/goliath/","dgPassFrontmatter":true}
 ---
 
-*Filed by [[Lexicon\|Lexicon]], [[Oculus of the Realms\|Oculus of the Realms]]*
+*Filed by Lexicon, Oculus of the Realms*
 
 Of all the giant-kin, Goliath hold on to the belief in strength and power as closely as the giants themselves do. The Goliath gather in warrior clans, bound by honor, rule, and the strength to lead. 
 
@@ -19,7 +19,7 @@ In their rites, the Goliath look to [[05 - Religion & Deities/The Shadow Throne/
 - **Age.** considered adult at 50, lives up to 300 years. 
 - **Creature Type.** You are [[Humanoids\|Humanoid]]
 - **Size.** 7 to 8 feet tall. You are [[Medium Creature\|Medium]]. 
-- **[[Speed\|Speed]].** Your walking speed is 30ft. 
+- **Speed.** Your walking speed is 30ft. 
 #### Species Abilities
 ##### Giantkin
 - **Powerful build.** You count as one size larger when determining your carrying capacity.

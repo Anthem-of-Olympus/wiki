@@ -1,8 +1,8 @@
 ---
-{"created":"2025-09-16T13:53:54.420+02:00","updated":"2025-09-17T14:20:06.000+02:00","cssclasses":null,"tags":null,"dg-publish":true,"permalink":"/02-species-and-cultures/giantkin/firbolg/","dgPassFrontmatter":true}
+{"created":"2025-09-16T13:53:54.420+02:00","updated":"2025-09-25T19:37:26.000+02:00","cssclasses":null,"tags":null,"dg-publish":true,"permalink":"/02-species-and-cultures/giantkin/firbolg/","dgPassFrontmatter":true}
 ---
 
-*Filed by [[Lexicon\|Lexicon]], [[Oculus of the Realms\|Oculus of the Realms]]* 
+*Filed by Lexicon, Oculus of the Realms*
 
 Firbolg are far descendants from the roaming giants of [[04 - Geography & Politics/Planes/Caledrûn/Caledrûn\|Caledrûn]]. Their culture and ideals are strongly rooted in their belief in the power spiritual connection to their ancestors and nature. Where another may prove their power through raw strength or tactical prowess, Firbolg find power in one's connection to those who came before them. As such the wisest Shamans often end up leading Firbolg enclaves.
 
@@ -15,7 +15,7 @@ These enclaves are usually built far away from civilization, preferring roofed a
 - **Age.** considered adult at 50, living up to 500 years. 
 - **Creature Type.** You are [[Humanoids\|Humanoid]].
 - **Size.** 6 to 7 feet tall. You are [[Medium Creature\|Medium]]. 
-- **[[Speed\|Speed]].** Your walking speed is 30ft. 
+- **Speed.** Your walking speed is 30ft. 
 #### Species Abilities 
 ##### Giantkin
 - **Powerful build.** You count as one size larger when determining your carrying capacity.

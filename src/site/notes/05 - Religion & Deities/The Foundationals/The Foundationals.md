@@ -1,5 +1,5 @@
 ---
-{"created":"2025-05-21T10:20:06.930+02:00","updated":"2025-09-10T14:32:28.000+02:00","cssclasses":null,"tags":null,"dg-publish":true,"permalink":"/05-religion-and-deities/the-foundationals/the-foundationals/","dgPassFrontmatter":true}
+{"created":"2025-05-21T10:20:06.930+02:00","updated":"2025-09-10T14:32:44.000+02:00","cssclasses":null,"tags":null,"dg-publish":true,"permalink":"/05-religion-and-deities/the-foundationals/the-foundationals/","dgPassFrontmatter":true}
 ---
 
 The **Foundationals** are not like other gods. They are not worshipped for their favor or appeased for their wrath. They are not born from myth or made from mortal hope.

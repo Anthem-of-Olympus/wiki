@@ -1,13 +1,13 @@
 ---
-{"created":"2025-05-21T08:25:20.290+02:00","updated":"2025-09-17T14:19:58.000+02:00","cssclasses":null,"tags":null,"dg-publish":true,"permalink":"/02-species-and-cultures/giantkin/dwarves/","dgPassFrontmatter":true}
+{"created":"2025-05-21T08:25:20.290+02:00","updated":"2025-09-25T19:37:02.000+02:00","cssclasses":null,"tags":null,"dg-publish":true,"permalink":"/02-species-and-cultures/giantkin/dwarves/","dgPassFrontmatter":true}
 ---
 
-*Filed by [[Lexicon\|Lexicon]], [[Oculus of the Realms\|Oculus of the Realms]]*
+*Filed by Lexicon, Oculus of the Realms  *
 
 Dwarves are much shorter in stature compared to the other Giantkin, but they are just as- if not hardier than their kin. Other races often forget the fact that Dwarves are descendants of the Roaming Giants just as much as Goliath are.
 
 Dwarves pride themselves on craftsmanship and ingenuity, they are the forerunners of industry and exploration. As such they have spread far and wide. Even though their hardy constitution contributes to an easier time surviving in harsh conditions, Dwarves often choose to live in large cities.
-
+      
 ## Gameplay 
 #### Species information 
 - **Ability Score Increase.** you may increase one ability score by +2 and another by +1 
@@ -15,7 +15,7 @@ Dwarves pride themselves on craftsmanship and ingenuity, they are the forerunner
 - **Age.** considered adult at 50, living up to 400 years. 
 - **Creature Type.** You are [[Humanoids\|Humanoid]].
 - **Size.** The shortest of the giant kin between 5 to 6 feet tall. You are [[Medium Creature\|Medium]]. 
-- **[[Speed\|Speed]].** Your walking speed is 30ft. 
+- **Speed.** Your walking speed is 30ft. 
 #### Species Abilities 
 ##### Giantkin
 - **Powerful build.** You count as one size larger when determining your carrying capacity.

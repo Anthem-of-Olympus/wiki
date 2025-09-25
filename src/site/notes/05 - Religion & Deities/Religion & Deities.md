@@ -1,8 +1,8 @@
 ---
-{"created":"2025-05-21T09:05:33.910+02:00","updated":"2025-09-09T15:33:46.000+02:00","cssclasses":null,"tags":null,"dg-publish":true,"permalink":"/05-religion-and-deities/religion-and-deities/","dgPassFrontmatter":true}
+{"created":"2025-05-21T09:05:33.910+02:00","updated":"2025-09-22T20:32:58.000+02:00","cssclasses":null,"tags":null,"dg-publish":true,"permalink":"/05-religion-and-deities/religion-and-deities/","dgPassFrontmatter":true}
 ---
 
-_Curated by [[Lexicon\|Lexicon]] [[Oculus of the Realms\|the Oculus]], who does not worship (but watches those who do)_
+_Curated by Lexicon, Oculus of the Realms, who does not worship (but watches those who do)_
 
 > “The divine do not ask for belief. They are belief, given voice and form and, occasionally, terrible manners.”  
 > — _Oculus margin note, written during a balefire storm over [[The Northern Reaches\|The Northern Reaches]]_
